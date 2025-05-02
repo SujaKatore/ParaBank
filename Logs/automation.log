@@ -3,3 +3,24 @@
 13:45:05.095 [main] INFO  TestCases.TC_001_Verify_Logo - Logo Test is Start........
 13:45:05.350 [main] DEBUG TestCases.TC_001_Verify_Logo - true
 12:13:02.141 [main] INFO  TestCases.TC_001_Verify_Logo - Logo Test is Start........
+13:09:15.614 [main] INFO  TestCases.TC_001_Verify_Logo - Logo Test is Start........
+13:09:18.197 [main] DEBUG TestCases.TC_001_Verify_Logo - true
+13:10:01.574 [main] INFO  TestCases.TC_004_Verify_login_failure_with_empty_username - true
+13:10:15.105 [main] INFO  TestCases.TC_005_Verify_login_failure_with_incorrect_password - 
+13:10:28.230 [main] INFO  TestCases.TC_006_Verify_account_balance_display_after_login - true
+13:10:43.505 [main] INFO  TestCases.TC_007_Verify_successful_logout - Login button displayed: true
+13:13:12.018 [main] INFO  TestCases.TC_001_Verify_Logo - Logo Test is Start........
+13:13:12.272 [main] DEBUG TestCases.TC_001_Verify_Logo - true
+13:13:52.423 [main] INFO  TestCases.TC_004_Verify_login_failure_with_empty_username - true
+13:14:03.861 [main] INFO  TestCases.TC_005_Verify_login_failure_with_incorrect_password - 
+13:14:17.955 [main] INFO  TestCases.TC_006_Verify_account_balance_display_after_login - true
+13:14:33.577 [main] INFO  TestCases.TC_007_Verify_successful_logout - Login button displayed: true
+13:19:55.519 [TestNG-tests-1] INFO  TestCases.TC_001_Verify_Logo - Logo Test is Start........
+13:20:16.803 [TestNG-tests-3] INFO  TestCases.TC_001_Verify_Logo - Logo Test is Start........
+13:20:17.224 [TestNG-tests-1] DEBUG TestCases.TC_001_Verify_Logo - true
+13:20:17.245 [TestNG-tests-3] DEBUG TestCases.TC_001_Verify_Logo - true
+13:22:45.911 [TestNG-tests-1] INFO  TestCases.TC_004_Verify_login_failure_with_empty_username - true
+13:23:23.023 [TestNG-tests-1] INFO  TestCases.TC_005_Verify_login_failure_with_incorrect_password - 
+13:30:04.210 [TestNG-tests-3] INFO  TestCases.TC_005_Verify_login_failure_with_incorrect_password - 
+13:30:58.951 [TestNG-tests-3] INFO  TestCases.TC_006_Verify_account_balance_display_after_login - true
+13:31:38.051 [TestNG-tests-3] INFO  TestCases.TC_007_Verify_successful_logout - Login button displayed: true
